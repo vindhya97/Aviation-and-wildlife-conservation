@@ -1,0 +1,2 @@
+# Aviation-and-wildlife-conservation
+The interaction between aircraft and wildlife, particularly bird strikes, has long been recognized as a significant hazard in the aviation industry. As our transportation networks expand, and with increasing air traffic, there has been a notable uptick in reported wildlife strikes. The U.S. Federal Aviation Administration (FAA) has been at the forefront of addressing this challenge by maintaining and analyzing data related to wildlife strikes to provide insights and foster effective mitigation strategies. 
